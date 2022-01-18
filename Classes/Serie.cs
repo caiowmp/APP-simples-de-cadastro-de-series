@@ -32,5 +32,15 @@ namespace Projeto.Classes
 
             return mensagem;
         }
+
+        public int getId()
+        {
+            return this.id;
+        }
+
+        public string getTitulo()
+        {
+            return this.titulo;
+        }
     }
 }
