@@ -44,6 +44,11 @@ namespace Projeto.Classes
         {
             return this.titulo;
         }
+
+        public bool getExcluido()
+        {
+            return this.excluido;
+        }
         
         public void Excluir()
         {
