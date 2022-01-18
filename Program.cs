@@ -80,7 +80,8 @@ namespace Projeto
             {
                 foreach(var item in listaSeries)
                 {
-                    System.Console.WriteLine("ID({0}) - {1}", item.getId(), item.getTitulo());
+                    var excluido = item.getExcluido();
+                    System.Console.WriteLine("ID({0}) - {1} - {2}", item.getId(), item.getTitulo(), excluido ? "Série excluida" : "");
                 }
             }
 
