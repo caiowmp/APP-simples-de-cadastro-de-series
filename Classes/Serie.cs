@@ -1,3 +1,4 @@
+using System;
 using Projeto.Enum;
 
 namespace Projeto.Classes
@@ -41,6 +42,11 @@ namespace Projeto.Classes
         public string getTitulo()
         {
             return this.titulo;
+        }
+        
+        public void Excluir()
+        {
+            this.excluido = true;
         }
     }
 }
