@@ -2,6 +2,6 @@ namespace Projeto.Classes
 {
     public abstract class Base
     {
-        public int id { get; set; }
+        protected int id { get; set; }
     }
 }
