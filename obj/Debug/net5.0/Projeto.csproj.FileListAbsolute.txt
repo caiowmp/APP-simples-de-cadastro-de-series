@@ -1,0 +1,16 @@
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\bin\Debug\net5.0\Projeto.exe
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\bin\Debug\net5.0\Projeto.deps.json
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.dev.json
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\bin\Debug\net5.0\Projeto.dll
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\bin\Debug\net5.0\ref\Projeto.dll
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\bin\Debug\net5.0\Projeto.pdb
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.dll
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\ref\Projeto.dll
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.pdb
+C:\Users\caiow\Documents\Faculdade\CURSO C#\Programando em C# DIO\Projeto\obj\Debug\net5.0\Projeto.genruntimeconfig.cache

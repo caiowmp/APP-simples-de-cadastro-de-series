@@ -1,9 +1,12 @@
+using System;
+using System.Collections.Generic;
 using Projeto.Interfaces;
 
 namespace Projeto.Classes
 {
     public class SerieRepositorio : IRepositorio<Serie>
 	{
+        //"Banco de dados" do projeto
         private List<Serie> listaSerie = new List<Serie>();
 		public void Atualiza(int id, Serie objeto)
 		{
