@@ -30,6 +30,7 @@ namespace Projeto.Classes
             mensagem += "Título: " + this.titulo + "\n";
             mensagem += "Descrição: " + this.descricao + "\n";
             mensagem += "Ano de início: " + this.ano + "\n";
+            mensagem += "Excluído: " + this.excluido;
 
             return mensagem;
         }
