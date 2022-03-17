@@ -1,7 +1,7 @@
 using System;
-using Projeto.Enum;
+using src.Enum;
 
-namespace Projeto.Classes
+namespace src.Classes
 {
     public class Serie : Base
     {

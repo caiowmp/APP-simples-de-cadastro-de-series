@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Projeto.Interfaces;
+using src.Interfaces;
 
-namespace Projeto.Classes
+namespace src.Classes
 {
     public class SerieRepositorio : IRepositorio<Serie>
 	{

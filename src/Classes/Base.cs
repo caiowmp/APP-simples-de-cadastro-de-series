@@ -1,4 +1,4 @@
-namespace Projeto.Classes
+namespace src.Classes
 {
     public abstract class Base
     {

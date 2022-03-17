@@ -1,4 +1,4 @@
-namespace Projeto.Enum
+namespace src.Enum
 {
 	public enum Genero
 	{

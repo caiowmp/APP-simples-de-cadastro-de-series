@@ -1,8 +1,8 @@
 ﻿using System;
-using Projeto.Classes;
-using Projeto.Enum;
+using src.Classes;
+using src.Enum;
 
-namespace Projeto
+namespace src
 {
     class Program
     {
